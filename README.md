@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Saumya a.k.a SSmagus</h2>
+<h3 align="left">Hi 👋! My name is Saumya a.k.a <strong>SSMagus</strong></h3>
+
+
 
 ###
 
