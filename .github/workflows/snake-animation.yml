@@ -1,12 +1,8 @@
-name: Generate snake.svg
-  uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: dist/snake.svg?palette=#f0f0f0,#d6e685,#8cc665,#44a340,#1e6823
+name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
 
   workflow_dispatch:
 
@@ -16,22 +12,25 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Run the Platane Snake action with Docker
+      - name: Generate snake.svg with docker
+        uses: Platane/snk@v3  # Make sure you're on the latest v3 version
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: dist/snake.svg
+          
+      # Push the generated `snake.svg` to the `output` branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Where GitHub Pages is served from
+          build_dir: dist  # Directory where the SVG is saved
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
