@@ -1,4 +1,8 @@
-name: Generate snake animation
+name: Generate snake.svg
+  uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: dist/snake.svg?palette=#d6e685,#8cc665,#44a340,#1e6823
 
 on:
   schedule: # execute every 12 hours
