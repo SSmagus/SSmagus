@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSmagus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SSmagus&theme=dracula)
+  <img src="https://camo.githubusercontent.com/d74a9353095ef87725eb97f910d54acbdeb44379c2a49caefb626490eaaf8711/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d53536d61677573266c6f63616c653d656e266d6f64653d6461696c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35"/>
 
 
 </div>
