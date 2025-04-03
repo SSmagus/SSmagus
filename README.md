@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Saumya a.k.a <strong>SSMagus</strong></h1>
 
 
-- I am a Dedicated Programmer with a 130-day streak on LeetCode & GFG, solving 700+ DSA problems.
+- I am a Dedicated Programmer with a almost 150-days streak on both LeetCode & GFG, solving 700+ DSA problems.
 - I like to use a variety of useful computer software and build beautiful blogs.
 - I also enjoy literature, reading, and writing.
 - Development and learning Algorithms have become my new passions.
