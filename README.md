@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋! My name is Saumya a.k.a <strong>SSMagus</strong></h1>
 
 
-
-- I am a **Programming rookie**
-- I like to use a variety of useful **computer software** and build  **beautiful blogs.**
-- I also like **literature, reading and writing.** 
-- **Developement** and learning **Algorithms** has became my new hobbies.
-- Although I was **not good** at it the beginning,
-- **luckily I slowly fell in love with it and now feel proficient. ❤️**
+- I am a Dedicated Programmer with a 130-day streak on LeetCode & GFG, solving 700+ DSA problems.
+- I like to use a variety of useful computer software and build beautiful blogs.
+- I also enjoy literature, reading, and writing.
+- Development and learning Algorithms have become my new passions.
+- Although I was not great at it in the beginning,
+- **luckily, I slowly fell in love with it and now feel confident. ❤️**
 
 <br>
 
@@ -27,9 +26,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSmagus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://leetcard.jacoblin.cool/GitClown?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats Card" height="150"/>
-  <img src="https://gfg-streak.rahuldkjain.com/?user=your_gfg_username" alt="GFG Streak" height="150"/>
-
-
 
 </div>
 
