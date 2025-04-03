@@ -26,7 +26,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSmagus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://leetcard.jacoblin.cool/GitClown?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/GitClown?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats Card" height="150"/>
+  <img src="https://gfg-streak.rahuldkjain.com/?user=your_gfg_username" alt="GFG Streak" height="150"/>
+
 
 
 </div>
