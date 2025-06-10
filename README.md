@@ -91,6 +91,6 @@
 
 <br clear="both">
 
-<img align="center" src="https://raw.githubusercontent.com/SSmagus/SSmagus/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 
 ###
