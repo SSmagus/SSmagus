@@ -1,23 +1,21 @@
-<h1 align="left">Hi 👋! My name is Saumya a.k.a <strong>SSMagus</strong></h1>
+<h1 align="left">Hi 👋 I'm Saumya — a.k.a <strong>crackedDev</strong></h1>
 
-
-- I am a Dedicated Programmer with a almost 150-days streak on both LeetCode & GFG, solving 700+ DSA problems.
-- I like to use a variety of useful computer software and build beautiful blogs.
-- I also enjoy literature, reading, and writing.
-- Development and learning Algorithms have become my new passions.
-- Although I was not great at it in the beginning,
-- **luckily, I slowly fell in love with it and now feel confident. ❤️**
+- Backend-focused developer working with **Java + Spring Boot** and **C++**
+- Competitive Programmer — **Codeforces Specialist** & **LeetCode Knight**
+- Solved **1300+ DSA problems** across platforms
+- Have built multiple applications in the past — from small tools to full-stack solutions  
+- Currently working on a **LeetCode-oriented Discord bot** and other backend projects
+- Enjoy exploring **algorithms, systems, and scalable backend designs**
 
 <br>
 
-**Talking about Personal Stuffs:**
+## 🚀 Personal Details
 
-- 👨‍🏛 I am currently a student of **PU**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development**. 
-- 🤔 My hobbies are **playing chess and reading**.
-- 💼 I am an **obsessive-compulsive disorder**.
-- 💬 If you have any questions, **just ask me**.
+- 🎓 B.Tech CSE student at **Poornima University**
+- 🌱 Learning **Spring Boot**, microservices, and system design fundamentals
+- ♟️ Hobbies: Competitive coding, chess, reading
+- 💬 Always open to connect & collaborate — feel free to reach out
+
 
 
 
@@ -33,37 +31,25 @@
 
 <img align="right" height="250" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif"  />
 
-###
 <h4>Languages and Tools</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
+
 
 ###
 <h4>Connect with me:</h4>
