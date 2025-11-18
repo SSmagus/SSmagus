@@ -73,10 +73,3 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SSmagus/SSmagus/output/github-contribution-grid-snake-dark.svg" />
-
-###
