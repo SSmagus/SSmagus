@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Saumya — a.k.a <strong>crackedDev</strong></h1>
+<h1 align="left">Hi 👋 I'm Saumya </h1>
 
 - Backend-focused developer working with **Java + Spring Boot** and **C++**
 - Competitive Programmer — **Codeforces Specialist** & **LeetCode Knight**
