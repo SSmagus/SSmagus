@@ -19,6 +19,8 @@
 - Open to contributing to **meaningful backend or infrastructure-oriented projects**
 
 
+---
+
 ###
 
 <img align="right" height="250" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif"  />
@@ -43,6 +45,7 @@
 </div>
 
 
+###
 ###
 <h4>Connect with me:</h4>
 <div align="left">
