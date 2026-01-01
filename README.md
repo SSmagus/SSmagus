@@ -1,31 +1,23 @@
 <h1 align="left">Hi 👋 I'm Saumya </h1>
 
-- Backend-focused developer working with **Java + Spring Boot** and **C++**
-- Competitive Programmer — **Codeforces Specialist** & **LeetCode Knight**
-- Solved **1300+ DSA problems** across platforms
-- Have built multiple applications in the past — from small tools to full-stack solutions  
-- Currently working on a **LeetCode-oriented Discord bot** and other backend projects
-- Enjoy exploring **algorithms, systems, and scalable backend designs**
+### 🧩 Backend Developer — Java, Spring Boot, C++
 
-<br>
+- Working with **Java + Spring Boot**, **C++**, and REST-based backend development  
+- Interested in **backend engineering, systems, and reliability-focused design**
+- Learning and experimenting with **React** for frontend integration where needed
+- Exploring **Docker** and containerized development workflows
+- Actively moving toward contributing to **open-source projects**
 
-## 🚀 Personal Details
+---
 
-- 🎓 B.Tech CSE student at **Poornima University**
-- 🌱 Learning **Spring Boot**, microservices, and system design fundamentals
-- ♟️ Hobbies: Competitive coding, chess, reading
-- 💬 Always open to connect & collaborate — feel free to reach out
+## 🚀 About Me
 
+- 🎓 B.Tech CSE — **Poornima University**
+- Currently improving my understanding of  
+  **Spring Boot internals, database design, and service-level architecture**
+- I use this GitHub mostly for **project work, prototypes, and learning repos**
+- Open to contributing to **meaningful backend or infrastructure-oriented projects**
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSmagus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://leetcard.jacoblin.cool/crackedDev?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats Card" height="150"/>
-
-</div>
 
 ###
 
